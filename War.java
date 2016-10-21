@@ -1,6 +1,6 @@
 // Kyle Bouder
 // October 21, 2016
-// War Card Game
+// Programming Assignment 3 - War
 
 public class War {
 	private int rangeMin = 1;
